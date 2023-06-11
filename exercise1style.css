@@ -1,0 +1,22 @@
+nav {
+	font-size: 25px;
+}
+p {
+	text-align: justify;
+	text-indent: 50px;
+	line-height: 1.5;
+	color: darkgreen;
+}
+  footer {
+    padding: 20px;
+    text-align: center;
+    color: white;
+  }
+   .icons {
+        font-size: 30px;
+        margin: auto;
+        justify-content: space-between;
+        width: 25%;
+        padding: 5px;
+    }
+    .icons a i:hover {color: white;}
